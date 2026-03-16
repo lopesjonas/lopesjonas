@@ -20,6 +20,7 @@
 
 Olá! Sou **Jonas**, analista de suporte apaixonado por tecnologia e por transformar problemas complexos em soluções simples. Trabalho com ambientes Linux e Windows, bancos de dados relacionais e ferramentas de gestão de chamados — sempre buscando otimizar processos e entregar a melhor experiência para os usuários.
 
+- 🎓 Graduado em Ciência da Computação
 - 🛠️ Especialista em suporte técnico e resolução de incidentes
 - 🗄️ Experiência com múltiplos bancos de dados e administração de sistemas
 - 🤖 Explorando Machine Learning para automatizar e melhorar o suporte
